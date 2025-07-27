@@ -1,3 +1,17 @@
+## 🎓 Course Information
+
+These projects were completed as part of the [*60 Days of Java: The Complete Java Masterclass*
+]](https://www.udemy.com/course/javamasterclass) by Denis Panjuta on Udemy.
+
+The course covers Java basics through advanced concepts, including:
+- Java syntax and object-oriented programming
+- Control flow statements
+- Classes and methods
+- File I/O and exceptions
+- Collections, lambdas, and more
+
+I completed these projects to reinforce hands-on learning and practice real-world Java skills.
+
 This program is a good adventure game that utilizes a simple user interface to choose from, with input from the console. Here is the code of the game. The game also uses switch statements.
 
 import java.util.Scanner;
